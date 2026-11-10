@@ -4,7 +4,6 @@
 
 ---
 
-![Uploading image.png…]()
 
 
 ## Il problema: il Lago di Bracciano
