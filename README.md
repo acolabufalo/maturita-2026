@@ -4,6 +4,9 @@
 
 ---
 
+![Uploading image.png…]()
+
+
 ## Il problema: il Lago di Bracciano
 
 Nella prova di Maturità 2026 (indirizzo scientifico) è stato proposto un problema sul **livello idrometrico del Lago di Bracciano** nel periodo 2016–2026.
